@@ -7,7 +7,7 @@
 
 [build.environment]
   # Define your environment variables here
-  GOOGLE_APPLICATION_CREDENTIALS = "gemini-chatbot/active-tangent-428009-a6-a349260cd362.json"
+  GOOGLE_APPLICATION_CREDENTIALS = "./active-tangent-428009-a6-a349260cd362.json"
   SKIP_PREFLIGHT_CHECK = "true"
   HOST = "0.0.0.0"
   PORT = "3000"
