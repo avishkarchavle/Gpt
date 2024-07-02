@@ -74,7 +74,7 @@ function App() {
 
               <div className="card">
                 <div id='clr' class="card-header">
-                  Grishma
+                  You
                 </div>
                 <div className="card-body">
 

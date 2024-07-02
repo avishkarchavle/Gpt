@@ -51,8 +51,7 @@ def main():
     model = GenerativeModel(model_name)
 
     # Example prompt (you can modify this based on your needs)
-    prompt = "Consider yourself as Avishkar, give answer such that you are answering to Avishkars girlfriend grishma"
-
+    prompt = "Consider yourself as Avishkar, give the detailed answer "
     # Fetch user input from command line argument
     if len(sys.argv) > 1:
         user_input = sys.argv[1]
